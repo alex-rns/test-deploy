@@ -1,6 +1,6 @@
 {
   "name": "test-deploy",
-  "homepage": "https:alex-rns.github.io/test-deploy",
+  "homepage": "https://alex-rns.github.io/test-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
